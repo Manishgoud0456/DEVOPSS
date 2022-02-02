@@ -67,3 +67,16 @@ git branch
 git push -u orgin branch-nmae
 git branch 
 ll
+git branchn
+git branch
+ll
+git push -u orgin master
+git checkout branch1
+git branch
+touch file4
+touch file5
+touch file6
+git add
+git add .
+git commit -m "branch1 commits " .
+git push -u orgin master
